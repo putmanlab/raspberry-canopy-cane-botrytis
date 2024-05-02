@@ -1,0 +1,2153 @@
+Data Format: 
+  dateTimeDelimiter: " "
+  decimalSeparator: "."
+  dataDelimiter: ","
+  dateFormat: MM/dd/yy
+  timeFormat: HH:mm:ss
+  gmtOffset: -8
+  daylightSavings: false
+
+Logger Info: 
+ - &1
+    launchDescription: "32"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278286
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &2
+    launchDescription: "3"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278283
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &3
+    launchDescription: "38"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278302
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &4
+    launchDescription: "18"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278290
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &5
+    launchDescription: "37"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278310
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &6
+    launchDescription: "9"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278299
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &7
+    launchDescription: "27"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278280
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &8
+    launchDescription: "34"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278306
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &9
+    launchDescription: "11"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278297
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &10
+    launchDescription: "15"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278294
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &11
+    launchDescription: "10"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278296
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &12
+    launchDescription: "7"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278300
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &13
+    launchDescription: "40"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278304
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &14
+    launchDescription: "14"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278293
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &15
+    launchDescription: "35"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278307
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &16
+    launchDescription: "23"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278273
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &17
+    launchDescription: "30"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278285
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &18
+    launchDescription: "33"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278305
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &19
+    launchDescription: "8"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278301
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 4
+ - &20
+    launchDescription: "17"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278291
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &21
+    launchDescription: "26"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278272
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &22
+    launchDescription: "39"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278303
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &23
+    launchDescription: "6"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278279
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &24
+    launchDescription: "12"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278298
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &25
+    launchDescription: "24"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278274
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &26
+    launchDescription: "4"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278281
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &27
+    launchDescription: "2"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278284
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 3
+ - &28
+    launchDescription: "1"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278289
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 4
+ - &29
+    launchDescription: "22"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278276
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &30
+    launchDescription: "28"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278278
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &31
+    launchDescription: "29"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278288
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &32
+    launchDescription: "25"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278271
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &33
+    launchDescription: "36"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278308
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &34
+    launchDescription: "5"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278282
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 4
+ - &35
+    launchDescription: "20"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278277
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &36
+    launchDescription: "19"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278309
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &37
+    launchDescription: "31"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278287
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &38
+    launchDescription: "13"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278292
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &39
+    launchDescription: "16"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278295
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+ - &40
+    launchDescription: "21"
+    model: MX2301
+    vendor: Onset Computer Corporation
+    serialNumber: 20278275
+    memorySize: 131072
+    firmwareVersion: 100.47
+    firmwareVersionRaw: 0
+    deploymentNumber: 2
+Series Info: 
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *28
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *28
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *28
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *28
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *28
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *11
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *11
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *11
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *11
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *11
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *9
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *9
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *9
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *9
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *9
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *24
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *24
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *24
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *24
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *24
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *38
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *38
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *38
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *38
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *38
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *14
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *14
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *14
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *14
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *14
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *10
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *10
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *10
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *10
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *10
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *39
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *39
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *39
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *39
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *39
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *20
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *20
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *20
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *20
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *20
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *4
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *4
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *4
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *4
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *4
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *36
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *36
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *36
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *36
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *36
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *27
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *27
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *27
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *27
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *27
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *35
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *35
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *35
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *35
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *35
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *40
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *40
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *40
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *40
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *40
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *29
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *29
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *29
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *29
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *29
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *16
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *16
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *16
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *16
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *16
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *25
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *25
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *25
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *25
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *25
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *32
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *32
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *32
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *32
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *32
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *21
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *21
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *21
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *21
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *21
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *7
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *7
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *7
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *7
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *7
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *30
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *30
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *30
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *30
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *30
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *31
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *31
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *31
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *31
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *31
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *2
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *2
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *2
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *2
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *2
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *17
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *17
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *17
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *17
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *17
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *37
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *37
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *37
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *37
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *37
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *18
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *18
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *18
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *18
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *18
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *8
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *8
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *8
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *8
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *8
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *15
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *15
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *15
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *15
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *15
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *33
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *33
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *33
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *33
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *33
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *5
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *5
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *5
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *5
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *5
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *3
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *3
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *3
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *3
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *3
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *22
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *22
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *22
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *22
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *22
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *26
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *26
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *26
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *26
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *26
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *13
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *13
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *13
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *13
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *13
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *34
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *34
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *34
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *34
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *34
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *23
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *23
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *23
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *23
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *23
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *12
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *12
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *12
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *19
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *19
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *19
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *19
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *19
+  - name: "Temperature"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *6
+  - name: "Temperature - Avg"
+    type: value
+    unitName: "*C"
+    OMClassName: OMTemp_Thermistor_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *6
+  - name: "RH"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *6
+  - name: "RH - Avg"
+    type: value
+    unitName: "%"
+    OMClassName: OMRH_Sensirion_ColdChain
+    OMPartNumber: MX-RH-1
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *6
+  - name: "Dew Point"
+    type: value
+    unitName: "*C"
+    OMClassName: OMDewPoint_Sensirion_ColdChain
+    OMPartNumber: MX-TEMP-2
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *6
